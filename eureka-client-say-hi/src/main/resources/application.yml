@@ -1,0 +1,13 @@
+server:
+  port: 8793
+
+
+spring:
+  application:
+    name: eureka-client-say-hi
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8791/eureka/

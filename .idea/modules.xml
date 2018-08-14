@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo.iml" filepath="$PROJECT_DIR$/.idea/modules/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-service-ribbon.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-service-ribbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-service-ribbon_main.iml" group="service-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-service-ribbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-service-ribbon_test.iml" group="service-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo_main.iml" group="demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo_test.iml" group="demo" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-say-hi/eureka-client-say-hi.iml" filepath="$PROJECT_DIR$/eureka-client-say-hi/eureka-client-say-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client-say-hi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client-say-hi_main.iml" group="eureka-client-say-hi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client-say-hi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client-say-hi_test.iml" group="eureka-client-say-hi" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server_main.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server_test.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/server-zipkin/server-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server-zipkin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/server-zipkin_main.iml" group="server-zipkin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server-zipkin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/server-zipkin_test.iml" group="server-zipkin" />
+      <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-feign-hystrix/service-feign-hystrix.iml" filepath="$PROJECT_DIR$/service-feign-hystrix/service-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-feign-hystrix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-feign-hystrix_main.iml" group="service-feign-hystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-feign-hystrix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-feign-hystrix_test.iml" group="service-feign-hystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-feign_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-feign_main.iml" group="service-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-feign_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-feign_test.iml" group="service-feign" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi-hystrix-dashboard/service-hi-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/service-hi-hystrix-dashboard/service-hi-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-hi-hystrix-dashboard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-hi-hystrix-dashboard_main.iml" group="service-hi-hystrix-dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-hi-hystrix-dashboard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-hi-hystrix-dashboard_test.iml" group="service-hi-hystrix-dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-hi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-hi_main.iml" group="service-hi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-hi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-hi_test.iml" group="service-hi" />
+      <module fileurl="file://$PROJECT_DIR$/service-info/service-info.iml" filepath="$PROJECT_DIR$/service-info/service-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-info_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-info_main.iml" group="service-info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-info_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-info_test.iml" group="service-info" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon-hystrix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon-hystrix_main.iml" group="service-ribbon-hystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon-hystrix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon-hystrix_test.iml" group="service-ribbon-hystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon_main.iml" group="service-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon_test.iml" group="service-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-zuul_main.iml" group="service-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-zuul_test.iml" group="service-zuul" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-service-ribbon_main" target="1.8" />
+      <module name="demo-service-ribbon_test" target="1.8" />
+      <module name="demo_main" target="1.8" />
+      <module name="demo_test" target="1.8" />
+      <module name="eureka-client-say-hi_main" target="1.8" />
+      <module name="eureka-client-say-hi_test" target="1.8" />
+      <module name="eureka-server_main" target="1.8" />
+      <module name="eureka-server_test" target="1.8" />
+      <module name="server-zipkin_main" target="1.8" />
+      <module name="server-zipkin_test" target="1.8" />
+      <module name="service-feign-hystrix_main" target="1.8" />
+      <module name="service-feign-hystrix_test" target="1.8" />
+      <module name="service-feign_main" target="1.8" />
+      <module name="service-feign_test" target="1.8" />
+      <module name="service-hi-hystrix-dashboard_main" target="1.8" />
+      <module name="service-hi-hystrix-dashboard_test" target="1.8" />
+      <module name="service-hi_main" target="1.8" />
+      <module name="service-hi_test" target="1.8" />
+      <module name="service-info_main" target="1.8" />
+      <module name="service-info_test" target="1.8" />
+      <module name="service-miya_main" target="1.8" />
+      <module name="service-miya_test" target="1.8" />
+      <module name="service-ribbon-hystrix_main" target="1.8" />
+      <module name="service-ribbon-hystrix_test" target="1.8" />
+      <module name="service-ribbon_main" target="1.8" />
+      <module name="service-ribbon_test" target="1.8" />
+      <module name="service-zuul_main" target="1.8" />
+      <module name="service-zuul_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
